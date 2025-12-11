@@ -24,7 +24,7 @@ This repository contains a comprehensive tutorial and code demonstration of **Lo
 
 -   **📘 `LSTM_Tutorial.pdf`:** The detailed PDF tutorial document.
 
--   **🧪 `LSTM_Sine_Forecasting.ipynb`:** The runnable Jupyter Notebook code.
+-   **🧪 `LSTM.py`:** The runnable Jupyter Notebook code.
 
 -   **📝 `requirements.txt`:** List of necessary Python packages.
 
